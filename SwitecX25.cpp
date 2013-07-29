@@ -8,7 +8,6 @@
  */
 
 //#include <Arduino.h>
-
 #include "SwitecX25.h"
 
 // During zeroing we will step the motor CCW 
